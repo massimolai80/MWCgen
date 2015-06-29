@@ -12,7 +12,7 @@ docstr = '''
 
   Started on 2014-1-14
   
-  2019/5/18 - Conformational transitions are now possible for target-
+  2014/5/18 - Conformational transitions are now possible for target-
               bound molecules of calmodulin. (ML)
   
   -------------------------------------------
